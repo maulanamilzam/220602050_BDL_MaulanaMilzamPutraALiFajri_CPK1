@@ -1,0 +1,544 @@
+[{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd4112d"
+  },
+  "nama_daerah": "Yogyakarta",
+  "provinsi": "DI Yogyakarta",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Yogyakarta_Indonesia_Tugu-Yogyakarta-02.jpg/1920px-Yogyakarta_Indonesia_Tugu-Yogyakarta-02.jpg",
+  "wisata": {
+    "kuliner": "Gudeg Yu Djum",
+    "gunung": "Gunung Merapi",
+    "danau_pantai": "Pantai Parangtritis",
+    "bangunan_bersejarah": "Keraton Yogyakarta",
+    "mall": "Ambarrukmo Plaza",
+    "hotel": "Hotel Tentrem"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd4112e"
+  },
+  "nama_daerah": "Jakarta",
+  "provinsi": "DKI Jakarta",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Busway_in_Bundaran_HI.jpg/1920px-Busway_in_Bundaran_HI.jpg",
+  "wisata": {
+    "kuliner": "Kerak Telor",
+    "gunung": null,
+    "danau_pantai": "Pantai Ancol",
+    "bangunan_bersejarah": "Monumen Nasional",
+    "mall": "Grand Indonesia",
+    "hotel": "Hotel Indonesia Kempinski"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd4112f"
+  },
+  "nama_daerah": "Medan",
+  "provinsi": "Sumatera Utara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Medan_city_2019.jpg",
+  "wisata": {
+    "kuliner": "Bika Ambon",
+    "gunung": "Gunung Sibayak",
+    "danau_pantai": "Danau Toba",
+    "bangunan_bersejarah": "Istana Maimun",
+    "mall": "Sun Plaza",
+    "hotel": "JW Marriott Medan"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41130"
+  },
+  "nama_daerah": "Padang",
+  "provinsi": "Sumatera Barat",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Padang_Kota_yang_Dikelilingi_Bukit_dan_Lautan.jpg",
+  "wisata": {
+    "kuliner": "Rendang",
+    "gunung": "Gunung Marapi",
+    "danau_pantai": "Pantai Air Manis",
+    "bangunan_bersejarah": "Museum Adityawarman",
+    "mall": "Basko Grand Mall",
+    "hotel": "Mercure Padang"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41131"
+  },
+  "nama_daerah": "Palembang",
+  "provinsi": "Sumatera Selatan",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LRT_Palembang_Ampera_Bridge.jpg",
+  "wisata": {
+    "kuliner": "Pempek",
+    "gunung": null,
+    "danau_pantai": "Pulau Kemaro",
+    "bangunan_bersejarah": "Benteng Kuto Besak",
+    "mall": "Palembang Icon",
+    "hotel": "Aryaduta Palembang"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41132"
+  },
+  "nama_daerah": "Bandar Lampung",
+  "provinsi": "Lampung",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tugu_Siger.jpg",
+  "wisata": {
+    "kuliner": "Seruit",
+    "gunung": "Gunung Rajabasa",
+    "danau_pantai": "Pantai Mutun",
+    "bangunan_bersejarah": "Museum Lampung",
+    "mall": "Central Plaza",
+    "hotel": "Sheraton Lampung Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41133"
+  },
+  "nama_daerah": "Pekanbaru",
+  "provinsi": "Riau",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/6/62/Masjid_Raya_Pekanbaru_%284%29.jpg",
+  "wisata": {
+    "kuliner": "Ikan Patin Asam Pedas",
+    "gunung": null,
+    "danau_pantai": "Danau Buatan Lembah Sari",
+    "bangunan_bersejarah": "Istana Siak",
+    "mall": "Mal SKA",
+    "hotel": "Hotel Pangeran"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41134"
+  },
+  "nama_daerah": "Pontianak",
+  "provinsi": "Kalimantan Barat",
+  "foto_daerah": "http://upload.wikimedia.org/wikipedia/commons/1/1f/Equator_Pontianak_Monument.jpg",
+  "wisata": {
+    "kuliner": "Pengkang",
+    "gunung": null,
+    "danau_pantai": "Pantai Pasir Panjang",
+    "bangunan_bersejarah": "Tugu Khatulistiwa",
+    "mall": "Ayani Megamall",
+    "hotel": "Harris Hotel Pontianak"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41135"
+  },
+  "nama_daerah": "Samarinda",
+  "provinsi": "Kalimantan Timur",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kapal_Tongkang_Batubara_melintas_dibawah_jembatan_Mahkota_2_Samarinda.jpg",
+  "wisata": {
+    "kuliner": "Sate Payau",
+    "gunung": null,
+    "danau_pantai": "Pantai Tanah Merah",
+    "bangunan_bersejarah": "Masjid Islamic Center",
+    "mall": "Big Mall Samarinda",
+    "hotel": "Midtown Hotel Samarinda"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e4aead5fec77cfbd41136"
+  },
+  "nama_daerah": "Banjarmasin",
+  "provinsi": "Kalimantan Selatan",
+  "foto_daerah": "hahttps://upload.wikimedia.org/wikipedia/commons/2/23/Menara_Pandang_Banjarmasin.JPGttps://en.wikipedia.org/wiki/File:Banjarmasin,_Banjarmasin_City,_South_Kalimantan,_Indonesia_-_panoramio.jpg",
+  "wisata": {
+    "kuliner": "Soto Banjar",
+    "gunung": null,
+    "danau_pantai": "Pantai Pagatan",
+    "bangunan_bersejarah": "Masjid Sultan Suriansyah",
+    "mall": "Duta Mall",
+    "hotel": "Swiss-Belhotel Borneo"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd41138"
+  },
+  "nama_daerah": "Surabaya",
+  "provinsi": "Jawa Timur",
+  "foto_daerah": "https://id.wikipedia.org/wiki/Kota_Surabaya#/media/Berkas:Taman_suroboyo.jpg",
+  "wisata": {
+    "kuliner": "Rawon Setan",
+    "gunung": "Gunung Penanggungan",
+    "danau_pantai": "Pantai Kenjeran",
+    "bangunan_bersejarah": "Monumen Kapal Selam",
+    "mall": "Tunjungan Plaza",
+    "hotel": "Hotel Majapahit"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd41139"
+  },
+  "nama_daerah": "Denpasar",
+  "provinsi": "Bali",
+  "foto_daerah": "https://id.wikipedia.org/wiki/Kota_Denpasar#/media/Berkas:Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg",
+  "wisata": {
+    "kuliner": "Ayam Betutu",
+    "gunung": "Gunung Batur",
+    "danau_pantai": "Pantai Sanur",
+    "bangunan_bersejarah": "Museum Bali",
+    "mall": "Level 21 Mall",
+    "hotel": "Inna Bali Heritage Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113a"
+  },
+  "nama_daerah": "Makassar",
+  "provinsi": "Sulawesi Selatan",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/4/45/Makassar_Sulawesi_Pantai_Losari.jpg",
+  "wisata": {
+    "kuliner": "Coto Makassar",
+    "gunung": "Gunung Bawakaraeng",
+    "danau_pantai": "Pantai Losari",
+    "bangunan_bersejarah": "Benteng Rotterdam",
+    "mall": "Trans Studio Mall Makassar",
+    "hotel": "Hotel Aryaduta Makassar"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113b"
+  },
+  "nama_daerah": "Manado",
+  "provinsi": "Sulawesi Utara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/8/84/Manado_Skyline.jpg",
+  "wisata": {
+    "kuliner": "Tinutuan",
+    "gunung": "Gunung Lokon",
+    "danau_pantai": "Pantai Malalayang",
+    "bangunan_bersejarah": "Gereja GMIM Sentrum",
+    "mall": "Manado Town Square",
+    "hotel": "Aryaduta Manado"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113c"
+  },
+  "nama_daerah": "Ambon",
+  "provinsi": "Maluku",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Montase_Ambon.png",
+  "wisata": {
+    "kuliner": "Papeda",
+    "gunung": "Gunung Salahutu",
+    "danau_pantai": "Pantai Natsepa",
+    "bangunan_bersejarah": "Benteng Amsterdam",
+    "mall": "Ambon City Center",
+    "hotel": "The Natsepa Resort and Conference Center"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113d"
+  },
+  "nama_daerah": "Jayapura",
+  "provinsi": "Papua",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/1/19/Aww%2C_Metropolitan%2C_Jayapura%2C_Papua%2C_Indonesia.png",
+  "wisata": {
+    "kuliner": "Ikan Bakar Papua",
+    "gunung": "Gunung Cyclops",
+    "danau_pantai": "Pantai Base-G",
+    "bangunan_bersejarah": "Tugu MacArthur",
+    "mall": "Mal Jayapura",
+    "hotel": "Swiss-Belhotel Papua"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113e"
+  },
+  "nama_daerah": "Kupang",
+  "provinsi": "Nusa Tenggara Timur",
+  "foto_daerah": "https://id.wikipedia.org/wiki/Kabupaten_Kupang#/media/Berkas:Kantor_Bupati_Kupang,_Naibonat,_Kupang,_Nusa_Tenggara_Timur,_Indonesia_-_panoramio.jpg",
+  "wisata": {
+    "kuliner": "Se'i Sapi",
+    "gunung": "Gunung Mutis",
+    "danau_pantai": "Pantai Lasiana",
+    "bangunan_bersejarah": "Benteng Concordia",
+    "mall": "Lippo Plaza Kupang",
+    "hotel": "Aston Kupang Hotel & Convention Center"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd4113f"
+  },
+  "nama_daerah": "Mataram",
+  "provinsi": "Nusa Tenggara Barat",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hubbul_Wathan_Islamic_Center.jpg",
+  "wisata": {
+    "kuliner": "Ayam Taliwang",
+    "gunung": "Gunung Rinjani",
+    "danau_pantai": "Pantai Senggigi",
+    "bangunan_bersejarah": "Pura Meru",
+    "mall": "Lombok Epicentrum Mall",
+    "hotel": "Golden Palace Hotel Lombok"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd41140"
+  },
+  "nama_daerah": "Palangka Raya",
+  "provinsi": "Kalimantan Tengah",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bundaran_Besar_Palangka_Raya_%28baru%29.jpg",
+  "wisata": {
+    "kuliner": "Juhu Singkah",
+    "gunung": "Bukit Tangkiling",
+    "danau_pantai": "Danau Tahai",
+    "bangunan_bersejarah": "Tugu Soekarno",
+    "mall": "Palangka Raya Mall",
+    "hotel": "Swiss-Belhotel Danum Palangka Raya"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9c54d5fec77cfbd41141"
+  },
+  "nama_daerah": "Ternate",
+  "provinsi": "Maluku Utara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/0/07/Land_Mark_Ternate.jpg",
+  "wisata": {
+    "kuliner": "Gohu Ikan",
+    "gunung": "Gunung Gamalama",
+    "danau_pantai": "Pantai Sulamadaha",
+    "bangunan_bersejarah": "Benteng Tolukko",
+    "mall": "Jatiland Mall",
+    "hotel": "Bela International Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41143"
+  },
+  "nama_daerah": "Manado",
+  "provinsi": "Sulawesi Utara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/8/84/Manado_Skyline.jpg",
+  "wisata": {
+    "kuliner": "Tinutuan",
+    "gunung": "Gunung Lokon",
+    "danau_pantai": "Pantai Malalayang",
+    "bangunan_bersejarah": "Klenteng Ban Hin Kiong",
+    "mall": "Manado Town Square",
+    "hotel": "Aryaduta Manado"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41144"
+  },
+  "nama_daerah": "Ambon",
+  "provinsi": "Maluku",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Montase_Ambon.png",
+  "wisata": {
+    "kuliner": "Papeda",
+    "gunung": "Gunung Salahutu",
+    "danau_pantai": "Pantai Natsepa",
+    "bangunan_bersejarah": "Benteng Amsterdam",
+    "mall": "Ambon City Center",
+    "hotel": "The Natsepa Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41145"
+  },
+  "nama_daerah": "Ternate",
+  "provinsi": "Maluku Utara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/0/07/Land_Mark_Ternate.jpg",
+  "wisata": {
+    "kuliner": "Gohu Ikan",
+    "gunung": "Gunung Gamalama",
+    "danau_pantai": "Pantai Sulamadaha",
+    "bangunan_bersejarah": "Benteng Tolukko",
+    "mall": "Jatiland Mall",
+    "hotel": "Bela Hotel Ternate"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41146"
+  },
+  "nama_daerah": "Kupang",
+  "provinsi": "Nusa Tenggara Timur",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/4/43/Night_at_Kupang_city.jpg",
+  "wisata": {
+    "kuliner": "Se'i Sapi",
+    "gunung": "Gunung Fatuleu",
+    "danau_pantai": "Pantai Lasiana",
+    "bangunan_bersejarah": "Benteng Concordia",
+    "mall": "Lippo Plaza Kupang",
+    "hotel": "Swiss-Belinn Kristal Kupang"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41147"
+  },
+  "nama_daerah": "Mataram",
+  "provinsi": "Nusa Tenggara Barat",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hubbul_Wathan_Islamic_Center.jpg",
+  "wisata": {
+    "kuliner": "Ayam Taliwang",
+    "gunung": "Gunung Rinjani",
+    "danau_pantai": "Pantai Senggigi",
+    "bangunan_bersejarah": "Museum Negeri NTB",
+    "mall": "Lombok Epicentrum Mall",
+    "hotel": "Golden Palace Hotel Lombok"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41148"
+  },
+  "nama_daerah": "Jayapura",
+  "provinsi": "Papua",
+  "foto_daerah": "https://id.wikipedia.org/wiki/Kota_Jayapura#/media/Berkas:Aww,_Metropolitan,_Jayapura,_Papua,_Indonesia.png",
+  "wisata": {
+    "kuliner": "Ikan Bakar Papua",
+    "gunung": "Gunung Cyclops",
+    "danau_pantai": "Danau Sentani",
+    "bangunan_bersejarah": "Tugu MacArthur",
+    "mall": "Mall Jayapura",
+    "hotel": "Swiss-Belhotel Papua"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd41149"
+  },
+  "nama_daerah": "Sorong",
+  "provinsi": "Papua Barat",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sorong_view-1.jpg",
+  "wisata": {
+    "kuliner": "Ikan Kuah Kuning",
+    "gunung": "Gunung Jandera",
+    "danau_pantai": "Pantai Tanjung Kasuari",
+    "bangunan_bersejarah": "Tugu Merah Putih",
+    "mall": "Ramayana Mall",
+    "hotel": "Swiss-Belhotel Sorong"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd4114a"
+  },
+  "nama_daerah": "Kendari",
+  "provinsi": "Sulawesi Tenggara",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kendari_Bay_Bridge.jpg",
+  "wisata": {
+    "kuliner": "Sate Gogos Pokea",
+    "gunung": "Gunung Mekongga",
+    "danau_pantai": "Pantai Nambo",
+    "bangunan_bersejarah": "Benteng Keraton Buton",
+    "mall": "Lippo Plaza Kendari",
+    "hotel": "Claro Hotel Kendari"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd4114b"
+  },
+  "nama_daerah": "Gorontalo",
+  "provinsi": "Gorontalo",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Menara_Keagungan_Limboto.jpg",
+  "wisata": {
+    "kuliner": "Ilabulo",
+    "gunung": "Gunung Tilongkabila",
+    "danau_pantai": "Pantai Botutonuo",
+    "bangunan_bersejarah": "Benteng Otanaha",
+    "mall": "Gorontalo Mall",
+    "hotel": "Maqna Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d5bd5fec77cfbd4114c"
+  },
+  "nama_daerah": "Palangkaraya",
+  "provinsi": "Kalimantan Tengah",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bundaran_Besar_Palangka_Raya_%28baru%29.jpg",
+  "wisata": {
+    "kuliner": "Juhu Singkah",
+    "gunung": "Bukit Tangkiling",
+    "danau_pantai": "Danau Tahai",
+    "bangunan_bersejarah": "Museum Balanga",
+    "mall": "Mega Town Square",
+    "hotel": "Hotel Neo Palma"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d74d5fec77cfbd4114e"
+  },
+  "nama_daerah": "Serang",
+  "provinsi": "Banten",
+  "foto_daerah": "https://id.wikipedia.org/wiki/Kota_Serang#/media/Berkas:MENARA_MASJID_AGUNG_BANTEN.jpg",
+  "wisata": {
+    "kuliner": "Sate Bandeng",
+    "gunung": "Gunung Karang",
+    "danau_pantai": "Pantai Anyer",
+    "bangunan_bersejarah": "Benteng Speelwijk",
+    "mall": "Serang Mall",
+    "hotel": "Le Dian Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d74d5fec77cfbd4114f"
+  },
+  "nama_daerah": "Jambi",
+  "provinsi": "Jambi",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kantor-gubernur-2.jpg",
+  "wisata": {
+    "kuliner": "Tempoyak Patin",
+    "gunung": "Gunung Kerinci",
+    "danau_pantai": "Danau Sipin",
+    "bangunan_bersejarah": "Candi Muaro Jambi",
+    "mall": "Jambi Town Square",
+    "hotel": "Aston Jambi Hotel"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d74d5fec77cfbd41150"
+  },
+  "nama_daerah": "Palu",
+  "provinsi": "Sulawesi Tengah",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%22Lokasi-Pantai-Taipa_Palu.jpg%22.jpg",
+  "wisata": {
+    "kuliner": "Kaledo",
+    "gunung": "Gunung Gawalise",
+    "danau_pantai": "Pantai Talise",
+    "bangunan_bersejarah": "Museum Sulawesi Tengah",
+    "mall": "Palu Grand Mall",
+    "hotel": "Best Western Plus Coco Palu"
+  }
+},
+{
+  "_id": {
+    "$oid": "681f9d74d5fec77cfbd41151"
+  },
+  "nama_daerah": "Bengkulu",
+  "provinsi": "Bengkulu",
+  "foto_daerah": "https://upload.wikimedia.org/wikipedia/commons/3/33/Exile_house_of_Sukarno%2C_Bengkulu_2015-04-19_05.jpg",
+  "wisata": {
+    "kuliner": "Pendap",
+    "gunung": "Gunung Kaba",
+    "danau_pantai": "Pantai Panjang",
+    "bangunan_bersejarah": "Benteng Marlborough",
+    "mall": "Bencoolen Mall",
+    "hotel": "Mercure Bengkulu"
+  }
+}]
